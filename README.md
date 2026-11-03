@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/capturas/logo-oscuro.png">
-  <img src="docs/capturas/logo-claro.png" alt="SEEKING.LOC" width="420">
-</picture>
+![Portada de SeekingLoc](logo-oscuro.png)
 
 **Portal inmobiliario para Córdoba, Argentina: buscá, compará y entendé el precio real de cualquier propiedad, sin salir de una sola página.**
 
@@ -17,7 +14,6 @@
 
 [**Ver demo en vivo**](https://claude.ai/artifact/NJzHEKLWwKtMpHtigsty25) · [Desafíos técnicos](#desafíos-técnicos-resueltos)
 
-![Portada de SeekingLoc](logo-oscuro.png)
 
 </div>
 

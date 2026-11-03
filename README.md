@@ -95,7 +95,6 @@ seekingloc/
 ├── dem/                  # teselas de relieve (formato terrarium)
 ├── img/ej/               # 60 ilustraciones de ambientes para los avisos de ejemplo
 ├── tutorial.mp4          # video tutorial de carga de una propiedad
-└── docs/capturas/        # capturas de este README
 ```
 
 ---

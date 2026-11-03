@@ -39,18 +39,6 @@ Nació de una frustración concreta: en los portales actuales cada aviso abre un
 
 ---
 
-## Capturas
-
-| Listado (escritorio) | Mapa propio de Córdoba |
-|---|---|
-| ![Listado con filtros](docs/capturas/listado.png) | ![Mapa con barrios, rutas y calculadora](docs/capturas/mapa.png) |
-
-| Ficha: "¿Está bien de precio?" | Celular |
-|---|---|
-| ![Ficha con precio por m², servicios y plano](docs/capturas/ficha-precio-m2.png) | <img src="docs/capturas/celular.png" alt="Versión para celular" width="300"> |
-
----
-
 ## Funcionalidades principales
 
 | Área | Qué hace |

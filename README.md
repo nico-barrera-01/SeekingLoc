@@ -17,7 +17,7 @@
 
 [**Ver demo en vivo**](https://claude.ai/artifact/NJzHEKLWwKtMpHtigsty25) · [Desafíos técnicos](#desafíos-técnicos-resueltos)
 
-![Portada de SeekingLoc](portada.png)
+![Portada de SeekingLoc](logo-oscuro.png)
 
 </div>
 

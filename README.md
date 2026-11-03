@@ -86,24 +86,11 @@ Nació de una frustración concreta: en los portales actuales cada aviso abre un
 
 ## Cómo verlo
 
-### Opción 1: demo en vivo
-La demo se comparte a pedido: escribime por [LinkedIn](https://www.linkedin.com/in/TU-PERFIL) y te paso el enlace.
+Cómo verlo
 
-### Opción 2: en tu computadora
-La página carga sus datos con `fetch`, así que necesita servirse desde un servidor local: hacer doble clic en `index.html` no alcanza, porque el navegador bloquea esas lecturas.
+👉 Abrir SeekingLoc
 
-```bash
-git clone https://github.com/TU-USUARIO/seekingloc.git
-cd seekingloc
-
-# con Python 3 (viene instalado en macOS y Linux)
-python3 -m http.server 8000
-
-# o con Node.js
-npx serve .
-```
-
-Después abrí **http://localhost:8000** en el navegador. Requisitos: un navegador actualizado (Chrome, Edge, Firefox o Safari) y conexión a internet para MapLibre, deck.gl y las tipografías.
+La página se abre directo en el navegador, en computadora o celular, sin instalar nada ni registrarse. Es la versión completa, con el buscador en lenguaje natural incluido.
 
 > Fuera de claude.ai, el sitio funciona completo como portal de búsqueda. Las funciones que dependen de esa plataforma (panel de administración, métricas en tiempo real y la interpretación de búsquedas con IA generativa) se desactivan solas, sin errores: el buscador sigue funcionando con su intérprete propio.
 
@@ -215,6 +202,6 @@ Proyecto **independiente**, de punta a punta: idea, producto y diseño de la exp
 ## Contacto
 
 **Nicolás Barrera** · Unquillo, Córdoba, Argentina
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · [GitHub](https://github.com/TU-USUARIO)
+[LinkedIn](https://www.linkedin.com/in/nicolas-barrera-216524241) · [GitHub](https://github.com/nico-barrera-01))
 
 <sub>© 2026 Nicolás Barrera. Todos los derechos reservados. Datos geográficos: IDECOR, Municipalidad de Córdoba y © colaboradores de OpenStreetMap (ODbL). Los avisos son de ejemplo: las direcciones son reales, los avisos no.</sub>

@@ -184,6 +184,6 @@ Proyecto **independiente**, de punta a punta: idea, producto y diseño de la exp
 ## Contacto
 
 **Nicolás Barrera** · Unquillo, Córdoba, Argentina
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · [GitHub](https://github.com/TU-USUARIO)
+[LinkedIn](https://www.linkedin.com/in/nicolas-barrera-216524241) · [GitHub](https://github.com/nico-barrera-01)
 
 <sub>© 2026 Nicolás Barrera. Todos los derechos reservados. Datos geográficos: IDECOR, Municipalidad de Córdoba y © colaboradores de OpenStreetMap (ODbL). Los avisos son de ejemplo: las direcciones son reales, los avisos no.</sub>

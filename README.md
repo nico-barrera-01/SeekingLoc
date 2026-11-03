@@ -41,7 +41,7 @@ Nació de una frustración concreta: en los portales actuales cada aviso abre un
 |---|---|
 | **Búsqueda** | Intérprete propio de lenguaje natural: tipo, ambientes, barrio, calle y altura, puntos de referencia ("cerca de la UNC"), presupuesto y requisitos (balcón, mascotas, cochera, seguridad 24 h…). Tolera errores de tipeo. Cuando no hay resultados, explica por qué y ofrece qué filtro quitar, con cuántos avisos aparecerían. |
 | **Mapa** | Provincia completa con MapLibre GL: calles, manzanas, barrios, rutas, ríos, relieve, espacios verdes, paradas y recorridos de colectivo. Capas que se prenden y apagan, y dibujo de zona a mano alzada (también con teclado). |
-| **Listado y filtros** | Diseño inspirado en Booking: filtros fijos a la izquierda, contadores en vivo, histograma de precios, 12 avisos por página y orden por destacados, precio o novedad. |
+| **Listado y filtros** | Diseño inspirado en diversos portales de busqueda: filtros fijos a la izquierda, contadores en vivo, histograma de precios, 12 avisos por página y orden por destacados, precio o novedad. |
 | **Ficha** | Galería por ambiente, precio y expensas, características, servicios con tilde o cruz, plano a escala, comercios y servicios cercanos en un radio, y comparación del precio por m² con la mediana de la zona. |
 | **Herramientas para quien busca** | Calculadora de costo real de un alquiler (ingreso, ajustes por IPC y total del contrato), comparador de guardados, búsquedas guardadas que marcan los avisos nuevos y "Seguí donde quedaste". |
 | **Publicación** | Formulario guiado por tipo de propiedad, con fotos mínimas por ambiente, servicios específicos y plano dibujable en hoja cuadriculada. No se puede guardar con campos vacíos, para que todos los avisos lleguen completos. |

@@ -15,9 +15,9 @@
 ![deck.gl](https://img.shields.io/badge/deck.gl-9.2.11-0B2545)
 ![Accesibilidad](https://img.shields.io/badge/axe--core-0%20problemas%20graves-1E6B3C)
 
-[**Ver demo en vivo**](https://claude.ai/artifact/NJzHEKLWwKtMpHtigsty25) · [Capturas](#capturas) · [Desafíos técnicos](#desafíos-técnicos-resueltos)
+[**Ver demo en vivo**](https://claude.ai/artifact/NJzHEKLWwKtMpHtigsty25) · [Desafíos técnicos](#desafíos-técnicos-resueltos)
 
-![Portada de SeekingLoc](docs/capturas/portada.png)
+![Portada de SeekingLoc](portada.png)
 
 </div>
 
